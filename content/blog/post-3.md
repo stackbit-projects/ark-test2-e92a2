@@ -2,7 +2,6 @@
 title: ''
 subtitle: ''
 date: '2020-05-28'
-author: data/team/gustav-purpleson.json
 categories: []
 tags:
   - data/tags/stackbit.json
