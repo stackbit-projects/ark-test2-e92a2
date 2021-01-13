@@ -234,12 +234,13 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          **I found Ark to be very genuine, a rarity these days. Attractive
+          price and very good quality construction. Nice and serene location.
+          Excellent value for money.**
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Mr. Gopala Krishna , ***Businessman*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
