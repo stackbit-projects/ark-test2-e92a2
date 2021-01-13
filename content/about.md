@@ -86,7 +86,7 @@ sections:
         content: |
           > I am a young and Dynamic CEO
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Meghna Gmmiu
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
