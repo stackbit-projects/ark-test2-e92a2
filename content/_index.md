@@ -56,7 +56,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Section Item 1
+        title: Hamptons
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
