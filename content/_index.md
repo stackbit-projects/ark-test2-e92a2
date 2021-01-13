@@ -37,7 +37,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /style-guide
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
