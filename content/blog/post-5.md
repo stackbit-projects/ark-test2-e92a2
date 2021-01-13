@@ -1,12 +1,8 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+title: ''
+subtitle: ''
 date: '2020-06-02'
-author: data/team/gustav-purpleson.json
-categories:
-  - data/categories/tutorials.json
+categories: []
 tags:
   - data/tags/stackbit.json
   - data/tags/netlify.json
@@ -16,7 +12,6 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
-image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
 image_position: right
 layout: post
