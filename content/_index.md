@@ -32,10 +32,7 @@ sections:
           projects stand testimony to deliverying large scale projects with the
           utmost finesse, being on the front foot of innovation, and most
           importantly, on time
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: ''
         actions:
           - type: action
             template: action
