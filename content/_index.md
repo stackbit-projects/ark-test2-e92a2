@@ -91,7 +91,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
         actions_align: right
         image: /images/HemaSmall.jpg
         image_alt: Section item 2 icon
