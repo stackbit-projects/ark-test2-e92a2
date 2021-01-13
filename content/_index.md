@@ -27,7 +27,7 @@ sections:
       - type: feature
         template: feature
         title: The best promises are the ones that are delivered in time.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Ark's
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
