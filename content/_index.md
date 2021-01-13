@@ -199,7 +199,7 @@ sections:
           quality.
 
 
-          \*\*Mr. Srinivas \*\* , *L & T Project Director, Mumbai*
+          ***Mr.Srinivas** ,L & T Project Director, Mumbai*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
