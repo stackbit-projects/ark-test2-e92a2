@@ -94,6 +94,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/ursula-gurnmeister.jpg
     title: Management Team
     subtitle: ''
     feature_padding_vert: ''
