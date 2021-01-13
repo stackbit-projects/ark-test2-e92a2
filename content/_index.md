@@ -250,26 +250,6 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: secondary
-  - type: cta_section
-    template: cta_section
-    title: Get in touch with Ark!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        template: action
-        label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: /images/Header-Footer.png
   - type: grid_section
     template: grid_section
     title: Team Section
