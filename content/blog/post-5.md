@@ -1,10 +1,7 @@
 ---
 title: ''
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: ''
 date: '2020-06-02'
-author: data/team/gustav-purpleson.json
 categories:
   - data/categories/tutorials.json
 tags:
