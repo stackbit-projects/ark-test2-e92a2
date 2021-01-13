@@ -22,7 +22,7 @@ sections:
   - type: features_section
     template: features_section
     title: ''
-    subtitle: 'Ark''s strong portfolio of residential '
+    subtitle: 'Ark''s strong portfolio of residential, industrial and instit'
     features:
       - type: feature
         template: feature
