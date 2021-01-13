@@ -11,7 +11,7 @@ sections:
     actions: []
     image_alt: arkgroup
     media_position: left
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
