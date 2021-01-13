@@ -132,6 +132,16 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     template: grid_section
     title: Image Grid
