@@ -22,7 +22,10 @@ sections:
   - type: features_section
     template: features_section
     title: ''
-    subtitle: 'Ark''s strong portfolio of residential, industrial and instit'
+    subtitle: >-
+      Ark's strong portfolio of residential, industrial and institutional
+      projects stand testimony to deliverying large scale projects with the
+      utmost 
     features:
       - type: feature
         template: feature
