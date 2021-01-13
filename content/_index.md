@@ -252,7 +252,7 @@ sections:
     background_color: secondary
   - type: cta_section
     template: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Get in touch with Ark!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
