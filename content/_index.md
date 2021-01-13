@@ -120,7 +120,7 @@ sections:
         image: /images/HomesSmall.jpg
         image_alt: Section item 3 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: lorem-ipsum
         subtitle: lorem-ipsum
