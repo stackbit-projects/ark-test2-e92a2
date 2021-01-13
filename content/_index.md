@@ -193,12 +193,13 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          Being a qualified technical person, I’ve personally examined the
+          quality of construction of Ark Homes and found it to be of the highest
+          quality.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Mr. Srinivas, ** *L & T Project Director, Mumbai*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
