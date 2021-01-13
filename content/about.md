@@ -107,32 +107,6 @@ sections:
     background_image_size: ''
     background_image_position: ''
     background_image_repeat: ''
-  - type: cta_section
-    template: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - type: action
-        template: action
-        label: Compare Plans
-        url: /pricing
-        style: primary
-        has_icon: false
-        icon: ''
-        icon_position: ''
-        new_window: false
-        no_follow: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    actions_position: ''
-    actions_width: ''
-    background_image: ''
-    background_image_size: ''
-    background_image_position: ''
-    background_image_repeat: ''
 layout: advanced
 excerpt: ''
 ---
