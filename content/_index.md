@@ -220,12 +220,14 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          **Perfect home for staying and even investment. Ark team has been very
+          helpful, flexible and approachable. Excellent quality project with
+          good neighbourhood. A pollution-free environment with great facilities
+          and security.**
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Mr. Balachandran,** *Retd. Scientific Officer, BARC*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
