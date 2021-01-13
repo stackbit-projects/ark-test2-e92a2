@@ -240,7 +240,7 @@ sections:
           Excellent value for money.**
 
 
-          \*\*Mr. Gopala Krishna , \*\* *Businessman*
+          **Mr. Gopala Krishna** ,  *Businessman*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
