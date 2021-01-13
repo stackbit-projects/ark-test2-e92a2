@@ -70,7 +70,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        actions_align: left
+        actions_align: right
         image: /images/HamptonsSmall.jpg
         image_alt: Section item 1 icon
         image_position: top
