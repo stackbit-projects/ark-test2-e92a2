@@ -22,6 +22,30 @@ sections:
   background_image_size: ''
   background_image_position: ''
   background_image_repeat: ''
+- template: hero_section
+  media_position: top
+  media_width: fifty
+  align: left
+  padding_top: medium
+  padding_bottom: medium
+  background_color: none
+  background_image_size: cover
+  background_image_position: center center
+  background_image_repeat: no-repeat
+  type: hero_section
+  title: Making a mArk with each Project
+  subtitle: ''
+  content: |-
+    The multi-dwelling expertise of Ark Group reflects in its extensive industrial projects, exceptional home spaces and the practice of delivering a spellbinding experience every time.With deep-rooted infrastructure development experience of over 30 years and footprints in Hyderabad and Bengaluru, Ark Group has predominated its exceptional craftsmanship, unique design language and valuable solutions. Our projects for TATA Boeing, Mahindra CIE, Schneider Electric, Department of Atomic Energy, Greater Hyderabad Municipal Corporation, et al, are a standing testimony to the commitment of delivering marque, monumental structures for corporates, government bodies, and residential projects.Amongst the most recent projects are:
+
+    ###### TATA Boeing, Ark Homes, Ark Serene County, Ark Cloud City and Ark Eternal Springs.
+  background_image: "/images/2-7.png"
+  actions: []
+  image: ''
+  image_alt: ''
+  video_embed_html: ''
+  has_border: false
+  background_image_opacity: 
 - type: features_section
   template: features_section
   features:
