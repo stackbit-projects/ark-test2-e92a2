@@ -21,7 +21,7 @@ sections:
     background_image_position: center top
   - type: features_section
     template: features_section
-    title: Features Section
+    title: ''
     subtitle: Features Section Example
     features:
       - type: feature
