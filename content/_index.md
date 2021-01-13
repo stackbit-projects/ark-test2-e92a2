@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: 'BUILDING TOMORROW, TODAY'
-    subtitle: '30+ years of '
+    subtitle: '30+ years of setting new benchmarks '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
