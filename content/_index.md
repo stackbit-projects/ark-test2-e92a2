@@ -194,9 +194,9 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Being a qualified technical person, I’ve personally examined the
+          **Being a qualified technical person, I’ve personally examined the
           quality of construction of Ark Homes and found it to be of the highest
-          quality.
+          quality.**
 
 
           **Mr. Srinivas,**  *L\&T Project Director, Mumbai*
