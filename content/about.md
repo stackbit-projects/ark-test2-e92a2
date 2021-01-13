@@ -81,7 +81,7 @@ sections:
         actions: []
         video_embed_html: ''
         align: ''
-      - title: lorem-ipsum
+      - title: Meghna Gummi
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
