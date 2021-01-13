@@ -26,7 +26,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: The best promises are the ones that are delivered on time.
+        title: The best promises are the ones that are delivered in time.
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
