@@ -82,7 +82,7 @@ sections:
         video_embed_html: ''
         align: ''
       - title: Meghna Gummi
-        subtitle: lorem-ipsum
+        subtitle: Chief Executive Officer
         content: >-
           ## Lorem ipsum
 
