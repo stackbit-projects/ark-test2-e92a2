@@ -206,12 +206,14 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          **Connectivity and safety of a gated community, that’s why I chose Ark
+          Homes. The peaceful atmosphere and good quality of life at a great
+          price. After a long and meticulous search, I’ve zeroed in on Ark
+          Homes.**
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Mr. Naveen Kelkar,** *Bank of America, Customer*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
