@@ -44,11 +44,6 @@ params:
     secondary_nav_links:
       - type: action
         template: action
-        label: Contact
-        url: /contact
-        style: link
-      - type: action
-        template: action
         label: Get Started
         url: /pricing
         style: primary
