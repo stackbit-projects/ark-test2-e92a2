@@ -81,7 +81,7 @@ sections:
         title: Ark Hema
         title_align: left
         content: |
-          **2 & 3 BHK **Gated Apartment Community at Gajularamaram
+          **2 & 3 BHK** Gated Apartment Community at Gajularamaram
         content_align: center
         actions:
           - type: action
