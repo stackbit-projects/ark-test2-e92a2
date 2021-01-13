@@ -25,7 +25,8 @@ sections:
     subtitle: >-
       Ark's strong portfolio of residential, industrial and institutional
       projects stand testimony to deliverying large scale projects with the
-      utmost 
+      utmost finesse, being on the front foot of innovation, and most
+      importantly, on time
     features:
       - type: feature
         template: feature
