@@ -86,7 +86,7 @@ sections:
         content: |
           > I am a young and Dynamic CEO
         actions: []
-        image_alt: Meghna Gmmiu
+        image_alt: Meghna Gummi
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
