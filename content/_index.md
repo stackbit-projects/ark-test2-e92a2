@@ -9,7 +9,7 @@ sections:
       management.
     content: ''
     actions: []
-    image_alt: Hero section placeholder image
+    image_alt: arkgroup
     media_position: left
     media_width: fifty
     align: left
