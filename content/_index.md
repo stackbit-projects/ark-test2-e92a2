@@ -27,7 +27,11 @@ sections:
       - type: feature
         template: feature
         title: The best promises are the ones that are delivered in time.
-        subtitle: ''
+        subtitle: >-
+          Ark's strong portfolio of residential, industrial and institutional
+          projects stand testimony to deliverying large scale projects with the
+          utmost finesse, being on the front foot of innovation, and most
+          importantly, on time
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
