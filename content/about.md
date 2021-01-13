@@ -58,7 +58,7 @@ sections:
       >
       > Embedded in the DNA of the company is the philosophy of delivering peace of mind to all our stakeholders. We at Ark believe in walking the talk. From project commencement to handover, and beyond, we build relationships on the foundation of trust, integrity and transparency. Valuing ethical practices and adhering to the highest quality standards has helped us earn the most valuable asset – Trust.
     image: "/images/grr.png"
-    image_alt: People in conversation in the office lounge area
+    image_alt: Gummi Ram Reddy
     media_position: right
     media_width: fifty
     actions: []
