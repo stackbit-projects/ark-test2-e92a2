@@ -60,7 +60,7 @@ sections:
         title_align: left
         content: |
           **3BHK** Luxury Apartments in Kondapur
-        content_align: left
+        content_align: center
         actions:
           - type: action
             template: action
