@@ -101,7 +101,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Ark Homes
-        title_align: left
+        title_align: center
         content: >
           Hyderabad’s First CRISIL 5 Star Rated Project - **2 & 3 BHK** at
           Bolarum
