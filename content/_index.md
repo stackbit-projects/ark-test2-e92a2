@@ -58,10 +58,8 @@ sections:
         template: grid_item
         title: Hamptons
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          **3BHK** Luxury Apartments in Kondapur
         content_align: left
         actions:
           - type: action
