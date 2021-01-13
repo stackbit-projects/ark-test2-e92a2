@@ -102,10 +102,9 @@ sections:
         template: grid_item
         title: Ark Homes
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Hyderabad’s First CRISIL 5 Star Rated Project - **2 & 3 BHK** at
+          Bolarum
         content_align: center
         actions:
           - type: action
