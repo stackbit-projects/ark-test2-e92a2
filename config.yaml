@@ -12,8 +12,8 @@ params:
     template: header
     title: DIY
     logo: /images/friendly-crane.png
-    logo_alt: DIY logo
-    has_primary_nav: true
+    logo_alt: arkgrouplogo
+    has_primary_nav: false
     primary_nav_links:
       - type: action
         template: action
