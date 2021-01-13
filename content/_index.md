@@ -82,7 +82,7 @@ sections:
         title_align: left
         content: |
           **2 & 3 BHK **Gated Apartment Community at Gajularamaram
-        content_align: left
+        content_align: center
         actions:
           - type: action
             template: action
