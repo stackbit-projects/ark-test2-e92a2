@@ -69,7 +69,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
         actions_align: left
         image: /images/HamptonsSmall.jpg
         image_alt: Section item 1 icon
