@@ -7,9 +7,7 @@ sections:
     subtitle: >-
       30+ years of setting new benchmarks in project delivery, quality and
       management.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions:
       - type: action
         template: action
