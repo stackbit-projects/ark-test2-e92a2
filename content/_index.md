@@ -38,7 +38,7 @@ sections:
             template: action
             label: Learn More
             url: /about
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
