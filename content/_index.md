@@ -71,7 +71,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/1-1.png
+        image: /images/HamptonsSmall.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
