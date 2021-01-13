@@ -2,8 +2,7 @@
 title: ''
 subtitle: ''
 date: '2020-06-02'
-categories:
-  - data/categories/tutorials.json
+categories: []
 tags:
   - data/tags/stackbit.json
   - data/tags/netlify.json
