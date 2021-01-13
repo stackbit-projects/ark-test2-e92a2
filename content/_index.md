@@ -15,7 +15,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image: /images/homepack-background.jpg
     image: /images/Ark-large.png
   - type: grid_section
