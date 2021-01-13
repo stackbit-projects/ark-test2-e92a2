@@ -27,6 +27,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/homepack-background.jpg
+    image: /images/Ark-large.png
   - type: grid_section
     template: grid_section
     title: Image Grid
