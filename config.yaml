@@ -10,7 +10,7 @@ params:
   header:
     type: header
     template: header
-    title: DIY
+    title: Ark Group
     logo: /images/friendly-crane.png
     logo_alt: arkgrouplogo
     has_primary_nav: true
