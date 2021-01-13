@@ -8,12 +8,7 @@ sections:
       30+ years of setting new benchmarks in project delivery, quality and
       management.
     content: ''
-    actions:
-      - type: action
-        template: action
-        label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
